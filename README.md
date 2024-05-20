@@ -10,26 +10,21 @@
 # Demo
 삼성청년SW아카데미 서울캠퍼스 휴게실을 지나드는 교육생들의 동선 데이터를 수집하고 시각화한 데모입니다.
 
+
 ## Location Dots
-![location_dots](/uploads/740435ea81392c5610d874a9c3a10d17/location_dots.png)
+![location_dots](https://github.com/KevRiver/LiCa-Insight/assets/25262306/c9d95760-3a08-4423-b479-eaf87c7b1472)
 
 ## Heatmap
-![heatmap](/uploads/643085175fe466b4916b24037a0152b8/heatmap.png)
+![heatmap](https://github.com/KevRiver/LiCa-Insight/assets/25262306/5f611062-46bc-42c4-a962-5492d0488150)
 
 ## Tracking
 ### 1
-![2023-05-18-10-05-00-_-10-05-30](/uploads/f684ee5c65e988facd3243aa86961d78/2023-05-18-10-05-00-_-10-05-30.gif)
-![2023-05-18_10-05-00___10-05-30_-_Trace](/uploads/45ce5debdccd528b67c4037951a7bf2b/2023-05-18_10-05-00___10-05-30_-_Trace.png)
-
-### 2
-<img src="/uploads/5c237162f8093707a77b8db76682ad27/2023-05-18-10-09-30-_-10-10-30.gif">
-<img src="/uploads/7a36bd15ec5bb52ab7eecc75d6a71708/2023-05-18_10-09-30___10-10-30_-_Trace.png">
-
-### 3
-![2023-05-18-10-14-30-_10-15-00](/uploads/e8769046f209842f1959baea17ce29ab/2023-05-18-10-14-30-_10-15-00.gif)
-![2023-05-18_10-14-30___10-15-00_-_Trace](/uploads/3b591f38522497943a255288d715162a/2023-05-18_10-14-30___10-15-00_-_Trace.png)
+![2023-05-18-10-05-00-_-10-05-30 (1)](https://github.com/KevRiver/LiCa-Insight/assets/25262306/5d63bc90-6e2c-4dfc-98b7-dca5d24d3ddb)
+![2023-05-18_10-05-00___10-05-30_-_Trace (1)](https://github.com/KevRiver/LiCa-Insight/assets/25262306/c99cb705-38ee-410f-9b4e-4f2275843990)
 
 # System Architecture
+![A208 System Architecture v0 4](https://github.com/KevRiver/LiCa-Insight/assets/25262306/381251db-dc8f-4bd5-80c3-daa05999f5a5)
+![30 (1)](https://github.com/KevRiver/LiCa-Insight/assets/25262306/aad1374d-78d1-4787-b9ea-6178a8538e22)
 
 # Built With
 ## Frontend
